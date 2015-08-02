@@ -1,0 +1,14 @@
+[
+{
+  "modid": "cfdm",
+  "name": "MrCrayfish's Food Mod",
+  "description": "An addon Food Mod for MrCrayfish's Furniture Mod",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "www.mrcrayfish.com",
+  "authorList": ["MrCrayfish"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["cfm"]
+}
+]
