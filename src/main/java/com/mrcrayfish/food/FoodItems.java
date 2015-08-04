@@ -53,7 +53,7 @@ public class FoodItems {
 		flour                       = new Item().setUnlocalizedName("flour").setCreativeTab(MrCrayfishFoodMod.tabFood);
 		apple_slice                 = new ItemFood(2, 1.0F, false).setUnlocalizedName("apple_slice").setCreativeTab(MrCrayfishFoodMod.tabFood);
 		pie_base                    = new Item().setUnlocalizedName("pie_base").setCreativeTab(MrCrayfishFoodMod.tabFood);
-		bread_crumbs                      = new Item().setUnlocalizedName("batter").setCreativeTab(MrCrayfishFoodMod.tabFood);
+		bread_crumbs                = new Item().setUnlocalizedName("bread_crumbs").setCreativeTab(MrCrayfishFoodMod.tabFood);
 		chip_uncooked               = new ItemFood(2, 1.0F, false).setUnlocalizedName("chip_uncooked").setCreativeTab(MrCrayfishFoodMod.tabFood);
 		chip_cooked                 = new ItemFood(2, 1.0F, false).setUnlocalizedName("chip_cooked").setCreativeTab(MrCrayfishFoodMod.tabFood);
 		pizza_base                  = new ItemFood(2, 1.0F, false).setUnlocalizedName("pizza_base").setCreativeTab(MrCrayfishFoodMod.tabFood);
